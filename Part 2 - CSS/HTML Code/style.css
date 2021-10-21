@@ -1,0 +1,21 @@
+/* universal selector */
+* {
+    color: blue;
+}
+
+/* element selector */
+h1 {
+    color: teal;
+}
+p {
+    color: darkred;
+}
+/* id selector */
+#idname {
+    color: darkred;
+}
+/* class selector */
+.classname {
+    color:coral;
+}
+
