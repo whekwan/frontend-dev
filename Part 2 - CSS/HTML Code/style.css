@@ -1,21 +1,20 @@
 /* universal selector */
 * {
-    color: blue;
+  color: blue;
 }
 
 /* element selector */
 h1 {
-    color: teal;
+  color: teal;
 }
 p {
-    color: darkred;
+  color: darkred;
 }
 /* id selector */
 #idname {
-    color: darkred;
+  color: darkred;
 }
 /* class selector */
 .classname {
-    color:coral;
+  color: coral;
 }
-
